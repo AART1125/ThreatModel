@@ -1301,6 +1301,30 @@
                 "y": 530
               }
             ]
+          },
+          {
+            "position": {
+              "x": 280,
+              "y": 110
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Made by Aaron Ace Toledo"
+              }
+            },
+            "visible": true,
+            "shape": "td-text-block",
+            "id": "f8cf9856-348c-4cba-b02a-9f069c5f2aef",
+            "zIndex": 11,
+            "data": {
+              "type": "tm.Text",
+              "name": "Made by Aaron Ace Toledo",
+              "hasOpenThreats": false
+            }
           }
         ]
       }

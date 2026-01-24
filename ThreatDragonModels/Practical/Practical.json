@@ -19,7 +19,7 @@
         "cells": [
           {
             "position": {
-              "x": 240,
+              "x": 230,
               "y": 365
             },
             "size": {
@@ -275,6 +275,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 3,
             "ports": {
               "groups": {
                 "top": {
@@ -358,7 +359,6 @@
               ]
             },
             "id": "91724ee3-bd15-4b22-a605-6b731e4681da",
-            "zIndex": 3,
             "data": {
               "type": "tm.Actor",
               "name": "LDAP\n",
@@ -392,6 +392,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 4,
             "ports": {
               "groups": {
                 "top": {
@@ -475,7 +476,6 @@
               ]
             },
             "id": "7a5d1fea-1d3e-4456-a0c7-1ea55289fe46",
-            "zIndex": 4,
             "data": {
               "type": "tm.Process",
               "name": "Authentication",
@@ -515,6 +515,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 5,
             "ports": {
               "groups": {
                 "top": {
@@ -598,7 +599,6 @@
               ]
             },
             "id": "ea15d02a-11fa-4f4a-b989-a9640883d7f0",
-            "zIndex": 5,
             "data": {
               "type": "tm.Store",
               "name": "Database",
@@ -653,13 +653,14 @@
             ],
             "id": "a6572957-39df-4faf-925c-638c59499a2e",
             "source": {
-              "x": 370,
-              "y": 400
+              "cell": "9ef9718c-4e5d-4aff-843e-54c9772c0488",
+              "port": "cad92c18-e615-434e-91ee-7ec860bf622a"
             },
             "target": {
-              "x": 470,
-              "y": 500
-            }
+              "cell": "4c8dfc5a-fd86-495d-8552-48d285f36005",
+              "port": "dc780355-e170-4fea-b39f-c3136996fdb3"
+            },
+            "vertices": []
           }
         ]
       }

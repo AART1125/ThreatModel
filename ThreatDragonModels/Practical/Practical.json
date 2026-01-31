@@ -436,13 +436,6 @@
                   "score": ""
                 }
               ]
-            },
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove"
-              ],
-              "name": null
             }
           },
           {
@@ -1378,6 +1371,30 @@
                 "y": 480
               }
             ]
+          },
+          {
+            "position": {
+              "x": 107.5,
+              "y": 32
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "David Alexander S. Diamante"
+              }
+            },
+            "visible": true,
+            "shape": "td-text-block",
+            "id": "04f82ea4-5b0d-4f10-bf11-55b4441a410c",
+            "zIndex": 13,
+            "data": {
+              "type": "tm.Text",
+              "name": "David Alexander S. Diamante",
+              "hasOpenThreats": false
+            }
           }
         ]
       }

@@ -1388,8 +1388,8 @@
             },
             "visible": true,
             "shape": "td-text-block",
-            "id": "04f82ea4-5b0d-4f10-bf11-55b4441a410c",
             "zIndex": 13,
+            "id": "04f82ea4-5b0d-4f10-bf11-55b4441a410c",
             "data": {
               "type": "tm.Text",
               "name": "David Alexander S. Diamante",
